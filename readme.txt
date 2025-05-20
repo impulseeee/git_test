@@ -2,3 +2,4 @@
 开启git的学习之旅
 let‘s go
 yes！
+第一次学习git，要坚持下去
